@@ -1,6 +1,40 @@
 # HyperMesh
 Ultra-fast and ultra-secure decentralized internet infrastructure utilizing blockchain, mesh networking, and quantum computing, ensuring universal access to information and preserving digital privacy.
 
+# HyperMesh: Decentralized Internet Infrastructure
+
+Welcome to the HyperMesh GitHub repository! HyperMesh is an innovative project aimed at creating an ultra-fast and ultra-secure decentralized internet infrastructure. By leveraging the power of blockchain technology, mesh networking, and quantum computing, HyperMesh ensures universal access to information while preserving digital privacy.
+
+## Features
+
+- **Decentralized Network**: Utilizes blockchain and mesh networking to create a robust and resilient internet infrastructure that is not reliant on centralized control.
+- **Quantum-Secure**: Incorporates quantum computing principles to safeguard against future cryptographic threats, ensuring long-term security.
+- **Universal Access**: Designed to extend internet access to remote and underserved areas, promoting digital inclusivity.
+- **Privacy-Preserving**: Employs advanced encryption and privacy protocols to protect user data and communication.
+- **Smart Contract Enabled**: Supports decentralized applications (DApps) through smart contract functionality, opening up a wide range of use cases.
+
+## Getting Started
+
+To get started with HyperMesh, follow these steps:
+
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/KOSASIH/HyperMesh.git`.
+2. **Install Dependencies**: Navigate to the project directory and install the required dependencies.
+3. **Run HyperMesh**: Follow the instructions in the documentation to start using HyperMesh.
+
+## Contribution Guidelines
+
+We welcome contributions from the community! If you're interested in contributing, please read our [Contribution Guidelines](CONTRIBUTING.md) for more information on how to get started.
+
+## License
+
+HyperMesh is licensed under the [MIT License](LICENSE.md).
+
+## Support
+
+If you need help or have any questions, please join our community on [Discord](https://discord.gg/HyperMesh) or submit an issue on GitHub.
+
+Thank you for your interest in HyperMesh. Together, we can build a more secure, accessible, and decentralized internet for everyone.
+
 # Real World Apps example
 
 HyperMesh's decentralized infrastructure and mesh networking technology have a wide range of real-world applications, including:
