@@ -33,6 +33,23 @@
 [![Certified in Risk and Information Systems Control Badge](https://img.shields.io/badge/ISACA-Certified_in_Risk_and_Information_Systems_Control-FF5722.svg)](https://www.isaca.org/credentialing/crisc)
 [![Certified Scrum Master Badge](https://img.shields.io/badge/Scrum_Alliance-Certified_Scrum_Master-FFB900.svg)](https://www.scrumalliance.org/get-certified/certified-scrum-master)
 [![AWS Certified Solutions Architect - Professional Badge](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Professional-FF9900.svg)](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+[![Certified Information Privacy Manager Badge](https://img.shields.io/badge/IAPP-Certified_Information_Privacy_Manager-0072B5.svg)](https://iapp.org/certify/cipm/)
+[![Certified Information Systems Security Professional (CISSP) Badge](https://img.shields.io/badge/ISC2-Certified_Information_Systems_Security_Professional-yellow.svg)](https://www.isc2.org/Certifications/CISSP)
+[![Google Cloud Professional Cloud Security Engineer Badge](https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Security_Engineer-blue.svg)](https://cloud.google.com/certification/cloud-security-engineer)
+[![AWS Certified Solutions Architect - Associate Badge](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900.svg)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![Microsoft Certified: Azure Security Engineer Associate Badge](https://img.shields.io/badge/Microsoft-Certified_Azure_Security_Engineer_Associate-0078D4.svg)](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer/)
+[![Certified Data Scientist Badge](https://img.shields.io/badge/DSC-Certified_Data_Scientist-FFB600.svg)](https://datasciencecertification.org/)
+[![Certified Kubernetes Application Developer Badge](https://img.shields.io/badge/CNCF-Certified_Kubernetes_Application_Developer-326CE5.svg)](https://www.cncf.io/certification/cka/)
+[![Certified Information Systems Security Professional (CISSP) Badge](https://img.shields.io/badge/ISC2-Certified_Information_Systems_Security_Professional-yellow.svg)](https://www.isc2.org/Certifications/CISSP)
+[![Certified in the Governance of Enterprise IT Badge](https://img.shields.io/badge/ISACA-Certified_in_the_Governance_of_Enterprise_IT-FF5722.svg)](https://www.isaca.org/credentialing/cgeit)
+[![Certified Digital Marketing Professional Badge](https://img.shields.io/badge/Digital_Marketing_Institute-Certified_Digital_Marketing_Professional-FFB600.svg)](https://digitalmarketinginstitute.com/)
+[![Certified Business Analysis Professional Badge](https://img.shields.io/badge/IIBA-Certified_Business_Analysis_Professional-0072B5.svg)](https://www.iiba.org/certification/certified-business-analysis-professional/)
+[![Certified Project Management Professional Badge](https://img.shields.io/badge/PMI-Certified_Project_Management_Professional-0072B5.svg)](https://www.pmi.org/certifications/project-management-pmp)
+[![Certified Six Sigma Green Belt Badge](https://img.shields.io/badge/ASQ-Certified_Six_Sigma_Green_Belt-FFB600.svg)](https://asq.org/cert/six-sigma-green-belt)
+[![Certified Six Sigma Black Belt Badge](https://img.shields.io/badge/ASQ-Certified_Six_Sigma_Black_Belt-FF5722.svg)](https://asq.org/cert/six-sigma-black-belt)
+[![Certified Scrum Master Badge](https://img.shields.io/badge/Scrum_Alliance-Certified_Scrum_Master-FFB900.svg)](https://www.scrumalliance.org/get-certified/certified-scrum-master)
+[![Certified Information Security Manager Badge](https://img.shields.io/badge/ISACA-Certified_Information_Security_Manager-FF5722.svg)](https://www.isaca.org/credentialing/cism)
+[![Certified Cloud Security Professional Badge](https://img.shields.io/badge/ISC2-Certified_Cloud_Security_Professional-FF5722.svg)](https://www.isc2.org/Certifications/CCSP)
 
 # HyperMesh
 Ultra-fast and ultra-secure decentralized internet infrastructure utilizing blockchain, mesh networking, and quantum computing, ensuring universal access to information and preserving digital privacy.
