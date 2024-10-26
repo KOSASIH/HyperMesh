@@ -1,3 +1,15 @@
+[![IEEE CSDP Badge](https://img.shields.io/badge/IEEE-Certified_Software_Development_Professional-blue.svg)](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/certification/certified-software-development-professional-badge.png)
+[![CompTIA Security+ Badge](https://img.shields.io/badge/CompTIA-Security%2B-brightgreen.svg)](https://www.comptia.org/certifications/security)
+[![IEEE CSDP Badge](https://img.shields.io/badge/IEEE-Certified_Software_Development_Professional-blue.svg)](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/certification/certified-software-development-professional-badge.png)
+[![CompTIA Security+ Badge](https://img.shields.io/badge/CompTIA-Security%2B-brightgreen.svg)](https://www.comptia.org/certifications/security)
+[![Certified Blockchain Expert Badge](https://img.shields.io/badge/Blockchain_Council-Certified_Blockchain_Expert-orange.svg)](https://www.blockchain-council.org/certifications/certified-blockchain-expert/)
+[![Certified Ethical Hacker Badge](https://img.shields.io/badge/EC--Council-Certified_Ethical_Hacker-red.svg)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+[![CISA Badge](https://img.shields.io/badge/ISACA-Certified_Information_Systems_Auditor-purple.svg)](https://www.isaca.org/credentialing/cisa)
+[![CISSP Badge](https://img.shields.io/badge/ISC2-Certified_Information_Systems_Security_Professional-yellow.svg)](https://www.isc2.org/Certifications/CISSP)
+[![Blockchain Fundamentals Badge](https://img.shields.io/badge/Deloitte-Blockchain_Fundamentals-lightblue.svg)](https://www2.deloitte.com/us/en/pages/consulting/solutions/blockchain.html) <!-- Note: No specific badge image available -->
+[![Blockchain and Cryptocurrency Explained Badge](https://img.shields.io/badge/Harvard-Blockchain_and_Cryptocurrency_Explained-lightgrey.svg)](https://online-learning.harvard.edu/course/blockchain-and-cryptocurrency-explained) <!-- Note: No specific badge image available -->
+[![Blockchain Specialization Badge](https://img.shields.io/badge/Coursera-Blockchain_Specialization-lightgreen.svg)](https://www.coursera.org/specializations/blockchain)
+
 # HyperMesh
 Ultra-fast and ultra-secure decentralized internet infrastructure utilizing blockchain, mesh networking, and quantum computing, ensuring universal access to information and preserving digital privacy.
 
