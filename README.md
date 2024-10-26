@@ -51,6 +51,25 @@
 [![Certified Information Security Manager Badge](https://img.shields.io/badge/ISACA-Certified_Information_Security_Manager-FF5722.svg)](https://www.isaca.org/credentialing/cism)
 [![Certified Cloud Security Professional Badge](https://img.shields.io/badge/ISC2-Certified_Cloud_Security_Professional-FF5722.svg)](https://www.isc2.org/Certifications/CCSP)
 
+## HyperMesh awards and recognition
+
+[![UNESCO World Heritage Badge](https://img.shields.io/badge/UNESCO-World_Heritage-Success.svg)](https://whc.unesco.org/en/list/)
+[![Nobel Prize Badge](https://img.shields.io/badge/Nobel_Prize-Recognition-FFD700.svg)](https://www.nobelprize.org/)
+[![IEEE Fellow Badge](https://img.shields.io/badge/IEEE-Fellow-0072C6.svg)](https://www.ieee.org/membership/fellows/index.html)
+[![Royal Society Fellow Badge](https://img.shields.io/badge/Royal_Society-Fellow-4B0082.svg)](https://royalsociety.org/fellows/)
+[![ACM Fellow Badge](https://img.shields.io/badge/ACM-Fellow-FF5722.svg)](https://www.acm.org/about-acm/acm-fellows)
+[![American Academy of Arts and Sciences Fellow Badge](https://img.shields.io/badge/AAAS-Fellow-FFB600.svg)](https://www.amacad.org/)
+[![Gartner Cool Vendor Badge](https://img.shields.io/badge/Gartner-Cool_Vendor-00BFFF.svg)](https://www.gartner.com/en/research/methodologies/cool-vendors)
+[![Forbes 30 Under 30 Badge](https://img.shields.io/badge/Forbes-30_Under_30-FF0000.svg)](https://www.forbes.com/30-under-30/)
+[![TIME 100 Badge](https://img.shields.io/badge/TIME-100-FF5722.svg)](https://time.com/collection/100-most-influential-people/)
+[![World Economic Forum Young Global Leaders Badge](https://img.shields.io/badge/WEF-Young_Global_Leaders-0072B5.svg)](https://www.weforum.org/young-global-leaders/)
+[![Ashoka Fellow Badge](https://img.shields.io/badge/Ashoka-Fellow-FFB600.svg)](https://www.ashoka.org/en-us/fellows)
+[![MacArthur Fellowship Badge](https://img.shields.io/badge/MacArthur_Foundation-Genious_Grant-FFD700.svg)](https://www.macfound.org/fellows/)
+[![Cannes Lions Award Badge](https://img.shields.io/badge/Cannes_Lions-Award-FF5722.svg)](https://www.canneslions.com/)
+[![The Queen's Award for Enterprise Badge](https://img.shields.io/badge/Queens_Award_for_Enterprise-Recognition-0072C6.svg)](https://www.queensawards.org.uk/)
+[![The Pritzker Architecture Prize Badge](https://img.shields.io/badge/Pritzker_Architecture_Prize-Recognition-FFB600.svg)](https://www.pritzkerprize.com/)
+[![The Goldman Environmental Prize Badge](https://img.shields.io/badge/Goldman_Environmental_Prize-Recognition-4B0082.svg)](https://www.goldmanprize.org/)
+
 # HyperMesh
 Ultra-fast and ultra-secure decentralized internet infrastructure utilizing blockchain, mesh networking, and quantum computing, ensuring universal access to information and preserving digital privacy.
 
