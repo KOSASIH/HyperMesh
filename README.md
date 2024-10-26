@@ -9,6 +9,30 @@
 [![Blockchain Fundamentals Badge](https://img.shields.io/badge/Deloitte-Blockchain_Fundamentals-lightblue.svg)](https://www2.deloitte.com/us/en/pages/consulting/solutions/blockchain.html) <!-- Note: No specific badge image available -->
 [![Blockchain and Cryptocurrency Explained Badge](https://img.shields.io/badge/Harvard-Blockchain_and_Cryptocurrency_Explained-lightgrey.svg)](https://online-learning.harvard.edu/course/blockchain-and-cryptocurrency-explained) <!-- Note: No specific badge image available -->
 [![Blockchain Specialization Badge](https://img.shields.io/badge/Coursera-Blockchain_Specialization-lightgreen.svg)](https://www.coursera.org/specializations/blockchain)
+[![AWS Certified Solutions Architect Badge](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900.svg)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![Google Cloud Professional Data Engineer Badge](https://img.shields.io/badge/Google_Cloud-Professional_Data_Engineer-blue.svg)](https://cloud.google.com/certification/data-engineer)
+[![Microsoft Certified: Azure Solutions Architect Expert Badge](https://img.shields.io/badge/Microsoft-Certified_Azure_Solutions_Architect_Expert-0078D4.svg)](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
+[![Certified Kubernetes Administrator Badge](https://img.shields.io/badge/CNCF-Certified_Kubernetes_Administrator-326CE5.svg)](https://www.cncf.io/certification/cka/)
+[![Scrum Master Certified Badge](https://img.shields.io/badge/Scrum_Alliance-Scrum_Master_Certified-FFB900.svg)](https://www.scrumalliance.org/get-certified/scrum-master-certified)
+[![PMP Badge](https://img.shields.io/badge/PMI-Project_Management_Professional-0072B5.svg)](https://www.pmi.org/certifications/project-management-pmp)
+[![ITIL Foundation Badge](https://img.shields.io/badge/AXELOS-ITIL_Foundation-5B9BD5.svg)](https://www.axelos.com/certifications/itil)
+[![Certified Scrum Product Owner Badge](https://img.shields.io/badge/Scrum_Alliance-Certified_Scrum_Product_Owner-FFB900.svg)](https://www.scrumalliance.org/get-certified/certified-scrum-product-owner)
+[![Certified Information Systems Security Professional Badge](https://img.shields.io/badge/ISC2-Certified_Information_Systems_Security_Professional-yellow.svg)](https://www.isc2.org/Certifications/CISSP)
+[![AWS Certified Developer Badge](https://img.shields.io/badge/AWS-Certified_Developer-FF9900.svg)](https://aws.amazon.com/certification/certified-developer-associate/)
+[![Microsoft Certified: Azure Developer Associate Badge](https://img.shields.io/badge/Microsoft-Certified_Azure_Developer_Associate-0078D4.svg)](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
+[![CompTIA A+ Badge](https://img.shields.io/badge/CompTIA-A%2B-brightgreen.svg)](https://www.comptia.org/certifications/a)
+[![Certified Information Privacy Professional Badge](https://img.shields.io/badge/IAPP-Certified_Information_Privacy_Professional-0072B5.svg)](https://iapp.org/certify/cipp/)
+[![Google Cloud Professional Cloud Architect Badge](https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-blue.svg)](https://cloud.google.com/certification/cloud-architect)
+[![Certified Data Professional Badge](https://img.shields.io/badge/DM_Council-Certified_Data_Professional-FF5722.svg)](https://www.dmcouncil.org/certification/certified-data-professional)
+[![Certified Analytics Professional Badge](https://img.shields.io/badge/INFORMS-Certified_Analytics_Professional-FFB600.svg)](https://www.certifiedanalytics.org/)
+[![Certified Cloud Security Professional Badge](https://img.shields.io/badge/ISC2-Certified_Cloud_Security_Professional-FF5722.svg)](https://www.isc2.org/Certifications/CCSP)
+[![Red Hat Certified Engineer Badge](https://img.shields.io/badge/Red_Hat-Certified_Engineer-CC0000.svg)](https://www.redhat.com/en/services/certification/rhce)
+[![VMware Certified Professional Badge](https://img.shields.io/badge/VMware-Certified_Professional-0072C6.svg)](https://www.vmware.com/certification/vcp.html)
+[![Certified Ethical Hacker (CEH) Badge](https://img.shields.io/badge/EC--Council-Certified_Ethical_Hacker-FF0000.svg)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+[![Certified Information Systems Auditor Badge](https://img.shields.io/badge/ISACA-Certified_Information_Systems_Auditor-4B0082.svg)](https://www.isaca.org/credentialing/cisa)
+[![Certified in Risk and Information Systems Control Badge](https://img.shields.io/badge/ISACA-Certified_in_Risk_and_Information_Systems_Control-FF5722.svg)](https://www.isaca.org/credentialing/crisc)
+[![Certified Scrum Master Badge](https://img.shields.io/badge/Scrum_Alliance-Certified_Scrum_Master-FFB900.svg)](https://www.scrumalliance.org/get-certified/certified-scrum-master)
+[![AWS Certified Solutions Architect - Professional Badge](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Professional-FF9900.svg)](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 
 # HyperMesh
 Ultra-fast and ultra-secure decentralized internet infrastructure utilizing blockchain, mesh networking, and quantum computing, ensuring universal access to information and preserving digital privacy.
